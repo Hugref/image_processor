@@ -12,9 +12,9 @@ examples - filter application example
 
 file_handling - implementation of reading and writing BMP files
 
-[image.h](https://github.com/A1darI/image_processor/blob/bb41d152d47e1a3b0ba57b9ae46dad3ac8549dbf/image.h) - image representation
+[image.h](https://github.com/Hugref/image_processor/blob/869ad078f0b04999b983aae1106c10cf83402143/Image.h) - image representation
 
-[cmd_parser.h](https://github.com/A1darI/image_processor/blob/bb41d152d47e1a3b0ba57b9ae46dad3ac8549dbf/cmd_parser.h) - command line parsing
+[cmd_parser.h](https://github.com/Hugref/image_processor/blob/869ad078f0b04999b983aae1106c10cf83402143/parser.h) - command line parsing
 
 
 ### Supported image format
